@@ -1,0 +1,4 @@
+sound = "squeak"
+sound
+sound.upcase
+sound
